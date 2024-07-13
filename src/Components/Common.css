@@ -1,0 +1,12 @@
+.img{
+    background-image: url(passenger-airplane-landscape-white-flying-600nw-721267990.webp);
+    box-shadow: 10174px 4px 4px 4px rgba(0, 0, 0, 0.65) inset;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.simg{
+    background-image:linear-gradient(rgba(211, 209, 209, 0.75), rgba(82, 80, 80, 0.15)), url(travel-concept-with-globe_23-2148169842.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
