@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/routex/static/css/main.5b01ac7a.css",
+    "main.js": "/routex/static/js/main.12e8b684.js",
+    "static/js/453.f39f122d.chunk.js": "/routex/static/js/453.f39f122d.chunk.js",
+    "static/media/about.png": "/routex/static/media/about.4451d906bc8f5055f9be.png",
+    "static/media/229015979-happy-traveler-woman-holding-turkish-flag-enjoying-colorful-hot-air-balloon-flying-on-blue-sky-in.jpg": "/routex/static/media/229015979-happy-traveler-woman-holding-turkish-flag-enjoying-colorful-hot-air-balloon-flying-on-blue-sky-in.687aeb5b4d8c70ee663b.jpg",
+    "static/media/passenger-airplane-landscape-white-flying-600nw-721267990.webp": "/routex/static/media/passenger-airplane-landscape-white-flying-600nw-721267990.1d193a36fc7fe8477a40.webp",
+    "static/media/travel-concept-with-globe_23-2148169842.avif": "/routex/static/media/travel-concept-with-globe_23-2148169842.3fa7b7313692b7f0be03.avif",
+    "static/media/istockphoto-1363398400-612x612.webp": "/routex/static/media/istockphoto-1363398400-612x612.dbc1573d8e6572d602bc.webp",
+    "index.html": "/routex/index.html",
+    "main.5b01ac7a.css.map": "/routex/static/css/main.5b01ac7a.css.map",
+    "main.12e8b684.js.map": "/routex/static/js/main.12e8b684.js.map",
+    "453.f39f122d.chunk.js.map": "/routex/static/js/453.f39f122d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b01ac7a.css",
+    "static/js/main.12e8b684.js"
+  ]
+}
